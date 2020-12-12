@@ -1,2 +1,2 @@
 # Quiz-s-day
-This is a generally knowledge quiz.
+This is a general knowledge quiz.
